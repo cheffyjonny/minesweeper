@@ -1,2 +1,2 @@
 # minesweeper
-This is a vanila javascript project
+This is a vanila javascript project.
